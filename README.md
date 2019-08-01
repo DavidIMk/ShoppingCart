@@ -4,6 +4,8 @@ Hey, this is my sample project which are build on React and Express API. The pro
 
 This project was bootstrapped with [Create React App].
 
+![Alt text](/images/Capture1.PNG?raw=true)
+
 ## Available Scripts
 
 In the project directory, you can run:
